@@ -35,7 +35,7 @@
         "pngCompress": true,
         "htmlCompress": false,
         "cssSprite": true,
-        "cssAutoPrefixer": false,
+        "cssAutoPrefixer": true,
         "urlCombo": true,
         "debug": true,
         "debugDomain": "//127.0.0.1",

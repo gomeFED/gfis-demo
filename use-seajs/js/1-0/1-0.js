@@ -9,7 +9,7 @@ define(function (require, exports, module) {
 
             
     $('#btn').on('click', function() {
-        require.async('../2-0/2-0.js',function(test){
+        require.async('../2-0/2-0',function(test){
         	test.init();
         });
     })

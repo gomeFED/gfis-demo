@@ -25,7 +25,7 @@
         "widgetInline": true,
         "freemarker": true,
         "ssi": true,
-        "sass": true,
+        "less": true,
         "cssMd5": false,
         "jsMd5": false,
         "imageMd5": false,
