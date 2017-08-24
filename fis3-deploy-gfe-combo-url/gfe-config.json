@@ -38,6 +38,7 @@
         "urlCombo": true,
         "debug": true,
         "debugDomain": "//127.0.0.1",
+        "gfisGlobalVar": true,
         "uatDomain": {
             "js": "//js.atguat.net.cn",
             "css": "//css.atguat.net.cn",
