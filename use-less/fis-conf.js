@@ -8,8 +8,9 @@ fis.match('**/*.less', {
 
 //less 里面的规范，一般_打头的文件都不 release.
 fis.match('/css/{**/_*.less,_*.less}', {
-    release: false
+    release: '$0'
 });
+
 
 fis.match('*', {
     useCache: false,
